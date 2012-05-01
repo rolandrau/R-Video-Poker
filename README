@@ -1,0 +1,8 @@
+R-Video-Poker implements video poker in R with a GUI.
+Required packages are:
+rpanel
+pixmap
+tkrplot
+
+The cards were created by John Fitzgibbon. He kindly agreed in an
+email on 20 Dec 2010 that I can use his cards publicly.
